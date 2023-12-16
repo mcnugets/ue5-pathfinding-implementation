@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "test",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Epic games(UE)\\UE_5.0.3\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"*.ejs": "html",
+			"queue": "cpp",
+			"__config": "cpp",
+			"__nullptr": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
